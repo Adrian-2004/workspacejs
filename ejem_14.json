@@ -1,0 +1,13 @@
+{
+    "nombre":"Adrian",
+    "edad" :22,
+    "casado":false,
+    "altura":1.75,
+    "hobbies":["programar","leer","jugar"],
+    "direccion":{
+        "ciudad" :"Vigo",
+        "cp":36315
+    },
+    "pelicula":null
+
+}
