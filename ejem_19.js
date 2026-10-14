@@ -11,3 +11,4 @@ for(numero of numeros){
 //programacion declarativa QUE
 const resultado = numeros.filter( (numero) => numero>=0 )
 console.log(resultado)
+
